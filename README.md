@@ -223,7 +223,7 @@ Interfaz gráfica moderna.
 # 📂 Estructura del proyecto
 
 ```bash
-FinceptTerminal/
+PlataformaFinancieraTrading/
 │
 ├── fincept-qt/
 │   ├── src/
@@ -331,7 +331,7 @@ Data Sources → Analytics Engine → AI Processing → Trading & Visualization
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/Fincept-Corporation/FinceptTerminal.git
+git clone https://github.com/isairey/PlataformaFinancieraTrading.git
 ```
 
 ---
@@ -339,7 +339,7 @@ git clone https://github.com/Fincept-Corporation/FinceptTerminal.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd FinceptTerminal
+cd PlataformaFinancieraTrading
 ```
 
 ---
@@ -476,9 +476,9 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Fincept Corporation
+## Isai Reyes - FullStack
 
-Equipo enfocado en inteligencia financiera, análisis cuantitativo y plataformas modernas de trading 🚀
+Desarrollador enfocado en inteligencia financiera, análisis cuantitativo y plataformas modernas de trading 🚀
 
 </div>
 
